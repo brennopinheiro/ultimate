@@ -1,0 +1,5 @@
+//Código para usar no trackeamento de anúncios do Facebook
+
+utm_source={{site_source_name}}&utm_medium={{placement}}&utm_campaign={{campaign.name}}_{{adset.name}}&utm_content={{ad.name}}
+
+
